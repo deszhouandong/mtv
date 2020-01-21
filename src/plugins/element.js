@@ -1,0 +1,20 @@
+import Vue from 'vue'
+import { Button, Select, Form, FormItem, Option, Input, Table, TableColumn,Radio, Popover, Pagination, DatePicker, 
+  Upload, Autocomplete,radioGroup,Dialog,Loading } from 'element-ui';
+Vue.use(Button)
+Vue.use(Select)
+Vue.use(Form)
+Vue.use(FormItem)
+Vue.use(Option)
+Vue.use(Input)
+Vue.use(Table)
+Vue.use(TableColumn)
+Vue.use(Radio)
+Vue.use(Popover)
+Vue.use(Pagination)
+Vue.use(DatePicker)
+Vue.use(Upload)
+Vue.use(Autocomplete)
+Vue.use(radioGroup)
+Vue.use(Dialog)
+Vue.use(Loading)
